@@ -1,0 +1,125 @@
+[
+  {
+    "element": "div",
+    "class": "flex flex-col lg:flex-row justify-center items-center my-16",
+    "children": [
+      {
+        "element": "p",
+        "class": "text-2xl",
+        "text": "TRENDING ON REELS"
+      },
+      {
+        "element": "img",
+        "class": "h-7 w-7 ml-1.5",
+        "alt": "icon",
+        "src": "assests/images/trending.png"
+      }
+    ]
+  },
+  {
+    "element": "div",
+    "class": "flex flex-col lg:flex-row items-center justify-evenly",
+    "children": [
+      {
+        "element": "div",
+        "class": "flex flex-col items-center justify-center",
+        "children": [
+          {
+            "element": "img",
+            "class": "h-72 w-72",
+            "src": "assests/images/22.png"
+          },
+          {
+            "element": "div",
+            "text": "BOW STUDS"
+          },
+          {
+            "element": "div",
+            "text": "Rs.849.00"
+          },
+          {
+            "element": "a",
+            "class": "cursor-pointer custom-bg h-6 w-40 text-center text-white text-sm font-semibold items-center justify-center rounded-2xl mx-auto my-2",
+            "href": "pages/addtocard.html",
+            "text": "Add To Cart"
+          }
+        ]
+      },
+      {
+        "element": "div",
+        "class": "flex flex-col items-center justify-center",
+        "children": [
+          {
+            "element": "img",
+            "class": "h-72 w-72",
+            "src": "assests/images/19.png"
+          },
+          {
+            "element": "div",
+            "text": "MARQUICE HANCHAIN BRACELET"
+          },
+          {
+            "element": "div",
+            "text": "Rs.1000.00"
+          },
+          {
+            "element": "a",
+            "class": "cursor-pointer custom-bg h-6 w-40 text-center text-white text-sm font-semibold items-center justify-center rounded-2xl mx-auto my-2",
+            "href": "pages/addtocard.html",
+            "text": "Add To Cart"
+          }
+        ]
+      },
+      {
+        "element": "div",
+        "class": "flex flex-col items-center justify-center",
+        "children": [
+          {
+            "element": "img",
+            "class": "h-72 w-72",
+            "src": "assests/images/23.png"
+          },
+          {
+            "element": "div",
+            "text": "MARLEY NECKLACE"
+          },
+          {
+            "element": "div",
+            "text": "Rs.860.00"
+          },
+          {
+            "element": "a",
+            "class": "cursor-pointer custom-bg h-6 w-40 text-center text-white text-sm font-semibold items-center justify-center rounded-2xl mx-auto my-2",
+            "href": "pages/addtocard.html",
+            "text": "Add To Cart"
+          }
+        ]
+      },
+      {
+        "element": "div",
+        "class": "flex flex-col items-center justify-center",
+        "children": [
+          {
+            "element": "img",
+            "class": "h-72 w-72",
+            "src": "assests/images/17.png"
+          },
+          {
+            "element": "div",
+            "text": "FEMININE NEKLACE"
+          },
+          {
+            "element": "div",
+            "text": "Rs.1128.00"
+          },
+          {
+            "element": "a",
+            "class": "cursor-pointer custom-bg h-6 w-40 text-center text-white text-sm font-semibold items-center justify-center rounded-2xl mx-auto my-2",
+            "href": "pages/addtocard.html",
+            "text": "Add To Cart"
+          }
+        ]
+      }
+    ]
+  }
+]
